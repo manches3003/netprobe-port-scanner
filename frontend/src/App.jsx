@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import axios from "axios";
 
-const API = "https://manches3003-netprobe-backend.hf.space";
+const API = "https://huggingface.co/spaces/manches3003/netprobe-backend";
 
 // ── Design tokens — completely different from PhishGuard ────────
 const C = {
