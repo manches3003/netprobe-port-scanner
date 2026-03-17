@@ -4,11 +4,6 @@ import axios from "axios";
 
 const API_URL = "https://manches3003-netprobe-backend.hf.space";
 
-const response = await fetch(`${API_URL}/scan`, {
-  method: "POST",
-  headers: { "Content-Type": "application/json" },
-  body: JSON.stringify({ target: host, ports: portRange })
-});
 
 // ── Design tokens — completely different from PhishGuard ────────
 const C = {
