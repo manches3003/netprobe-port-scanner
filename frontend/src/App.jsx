@@ -576,7 +576,7 @@ export default function App() {
             WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", fontWeight: 700 }}>
             Keshav Kansara
           </span>
-          {" "}· MSc Cyber Security · SRH University Leipzig 🇩🇪
+          {" "}       
         </div>
       </div>
 
