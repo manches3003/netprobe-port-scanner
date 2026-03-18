@@ -2,7 +2,7 @@
 
 A full-stack network security tool that scans open ports on any target host, assesses risk levels, and generates downloadable PDF security reports.
 
-🔗 **Live Demo:** [netprobe-port-scanner.netlify.app](https://netprobe-port-scanner.netlify.app)  
+🔗 **Live Demo:** [netprobe-port-scanner.netlify.app](https://netprobe-scanner.netlify.app/)  
 ⚙️ **Backend API:** [manches3003-netprobe-backend.hf.space](https://manches3003-netprobe-backend.hf.space)
 
 ---
